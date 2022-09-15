@@ -1,14 +1,14 @@
 ## Giới thiệu
 
-![Alt text](/assets/Frame%204.png "Optional title")
+![Alt text](./assets/Frame%204.png "Optional title")
 
 
 #### Browser cache
-![Alt text](/assets/Frame%203%20(3).png "Optional title")
+![Alt text](./assets/Frame%203%20(3).png "Optional title")
 
 
 ## Web Storage
-![Alt text](/assets/web-storage.png "Optional title")
+![Alt text](./assets/web-storage.png "Optional title")
 
 ### Các khái niệm
 
@@ -89,7 +89,7 @@ localStorage.clear();
 ## Debug
 Dùng developer tool của Browser
 
-![Alt text](/assets/dev-tools.png "Optional title")
+![Alt text](./assets/dev-tools.png "Optional title")
 
 ## Tài liệu tham khảo
 
