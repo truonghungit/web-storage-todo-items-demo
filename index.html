@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Todo list</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="todo-app">
+    <header class="header">
+      <h1>Todos</h1>
+      <input class="new-todo" placeholder="What needs to be done?">
+    </header>
+
+    <div class="main">
+      <div class="todo-list">
+      </div>
+
+    </div>
+
+    <div class="footer">
+      <span class="todo-count"><strong>0</strong> items</span>
+      <ul class="filters">
+        <li class="selected" onclick="onFilterChange(event, 'all')">All</li>
+        <li onclick="onFilterChange(event, 'active')">Active</li>
+        <li onclick="onFilterChange(event, 'completed')">Completed</li>
+        <button class="clear-completed">Clear Completed</button>
+      </ul>
+    </div>
+  </div>
+  <script src="main.js"></script>
+</body>
+
+</html>
