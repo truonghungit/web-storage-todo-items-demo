@@ -1,14 +1,6 @@
-## Giới thiệu
-
-![Alt text](./assets/Frame%204.png "Optional title")
-
-
-#### Browser cache
-![Alt text](./assets/Frame%203%20(3).png "Optional title")
-
 
 ## Web Storage
-![Alt text](./assets/web-storage.png "Optional title")
+<img width="1280" alt="web-storage" src="https://user-images.githubusercontent.com/9523581/190339260-34afceb4-69fa-4df4-8a4f-49538ee8ba76.png">
 
 ### Các khái niệm
 
@@ -88,8 +80,6 @@ localStorage.clear();
 
 ## Debug
 Dùng developer tool của Browser
-
-![Alt text](./assets/dev-tools.png "Optional title")
 
 ## Tài liệu tham khảo
 
